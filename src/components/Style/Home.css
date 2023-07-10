@@ -1,0 +1,11 @@
+.sendBtn{
+    background-color: #232323;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin:8px ;
+    padding: 10px;
+}
+.sendBtn:hover{
+    background-color: black;
+}

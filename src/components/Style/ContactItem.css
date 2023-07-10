@@ -1,0 +1,10 @@
+.msgShowBtn:hover{
+    background-color: #232323 !important;
+}
+.IfOnline{
+    /* background-color: rgb(77, 255, 77); */
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    border: 1px solid #232323;
+}

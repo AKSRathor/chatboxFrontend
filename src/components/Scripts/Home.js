@@ -1,0 +1,1 @@
+document.getElementsByClassName("ChatArea").scrollTo(0,document.body.ScrollHeight)

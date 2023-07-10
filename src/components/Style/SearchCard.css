@@ -1,0 +1,12 @@
+.addBtn{
+    margin: auto;
+    border: none;
+    background-color: #232323;
+    color: white;
+    padding: 12% 31%;
+    margin-top: 12%;
+}
+
+.searchCard{
+    transform: scale(0);
+}

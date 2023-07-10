@@ -1,0 +1,28 @@
+.LoginDiv {
+    height: 55vh;
+    width: 30%;
+    display: flex;
+    margin: auto;
+    background-color: #232323;
+    margin-top: 5%;
+    color: white;
+    border-radius: 20px;
+}
+.LoginContainer{
+    margin: auto;
+}
+
+.signingBtn{
+    background-color: white;
+    border: none;
+    color: black;
+    font-weight: bold;
+}
+.signingBtn:hover{
+    background-color:rgb(162, 162, 162);
+    color: #232323;
+}
+
+body{
+    background-color: rgb(61 60 60);
+}

@@ -1,0 +1,48 @@
+.navbar{
+    background-color: #232323;
+}
+.navbar-brand{
+    color: white;
+}
+.navbar-text{
+    color: white;
+}
+.searchBtn{
+    transition: all ease-out 0.2s;
+    border-radius: 15px;
+    border: none;
+    background: #232323;
+    opacity: 0.8;
+    color: white;
+    padding: 15px;
+}
+.searchBtn:hover{
+    background-color: white;
+    color: #232323;
+}
+
+.signBtn{
+    border: 1px solid white;
+    background-color: transparent;
+    padding: 0.8%;
+    border-radius: 12px;
+    color: white;
+    transition: all ease-out 0.1s;
+}
+
+.signBtn:hover{
+    /* border: 1px solid white; */
+    background-color: white;
+    
+    color: #232323;
+    /* bac */
+}
+.navbar-brand:hover{
+    color: white;
+    font-weight: bold;
+}
+.navbar-brand:visited{
+    color: white;
+    font-weight: bold;
+}
+
